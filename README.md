@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks?style=flat-square&logo=github&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks?style=flat-square" alt="Last Commit"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Telemetry-Observability-Stacks/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
@@ -71,93 +71,93 @@ The table below compiles leading hosted AI observability, agent evaluation, and 
 
 ## 🔓 Open-Source AI Telemetry & Evaluation Projects
 
-Open-source tooling provides developer sovereignty, complete data privacy, and zero licensing fees for high-throughput workloads. The projects below are **sorted in descending order by GitHub Star count**. Each repository includes a real-time social star badge directly linking to its stargazers page.
+Open-source tooling provides developer sovereignty, complete data privacy, and zero licensing fees for high-throughput workloads. The projects below are **sorted in descending order by GitHub Stars_Count**. Each repository includes a real-time social Stars_Badge directly linking to its stargazers page.
 
-1. **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
+1. **[LiteLLM](https://github.com/BerriAI/litellm)** [![GitHub_Stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social&color=white)](https://github.com/BerriAI/litellm/stargazers)  
    * **License:** Apache-2.0  
    * **Overview:** Ultra-fast, lightweight AI gateway with a Rust core and Python SDK. Standardizes 100+ LLM APIs (OpenAI, Anthropic, Bedrock, Vertex AI, Ollama, vLLM) into an OpenAI-compatible format with centralized spend monitoring, rate limiting, and automated span forwarding to backends like Langfuse, OpenLIT, or Datadog.
 
-2. **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
+2. **[Langfuse](https://github.com/langfuse/langfuse)** [![GitHub_Stars](https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white)](https://github.com/langfuse/langfuse/stargazers)  
    * **License:** MIT Core (Open Core)  
    * **Overview:** The open-source standard for LLM engineering and production observability. Delivers nested span tracing, prompt management, dataset generation, evaluation pipelines, and token analytics in a fully self-hostable Docker/K8s stack. Acquired by ClickHouse in Jan 2026 with a verified pledge to retain open-source licensing.
 
-3. **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
+3. **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
    * **License:** Apache-2.0  
    * **Overview:** The Linux Foundation's premier AI engineering platform. **MLflow Tracing** provides native OpenTelemetry-compatible tracing for LLMs, agent frameworks (LangGraph, CrewAI, AutoGen), and RAG pipelines, unifying GenAI observability with existing enterprise MLflow/Databricks deployments.
 
-4. **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
+4. **[Promptfoo](https://github.com/promptfoo/promptfoo)** [![GitHub_Stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white)](https://github.com/promptfoo/promptfoo/stargazers)  
    * **License:** MIT  
    * **Overview:** Declarative CLI and CI/CD testing framework for red-teaming, prompt evaluation, and security vulnerability scanning. Automates hallucination detection, prompt injection defenses, and cross-model benchmarks across GPT-4o, Claude 3.5, Gemini 1.5/2.0, and DeepSeek.
 
-5. **[Comet Opik](https://github.com/comet-ml/opik)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)  
+5. **[Comet Opik](https://github.com/comet-ml/opik)** [![GitHub_Stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)  
    * **License:** Apache-2.0  
    * **Overview:** Fully permissive open-source LLM evaluation, agent tracing, and production monitoring suite. Ships a complete self-hostable backend with Docker Compose and Kubernetes Helm charts. Integrates seamlessly with LangGraph, LlamaIndex, CrewAI, DSPy, and OpenTelemetry, featuring built-in Opik Guardrails.
 
-6. **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+6. **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub_Stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
    * **License:** Apache-2.0  
    * **Overview:** "Pytest for LLMs". Features 14+ battle-tested evaluation metrics (G-Eval, Hallucination, Faithfulness, Contextual Relevancy, Bias, Toxicity) that execute directly inside CI/CD unit tests or production monitoring pipelines.
 
-7. **[Ragas](https://github.com/explodinggradients/ragas)** [![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers)  
+7. **[Ragas](https://github.com/explodinggradients/ragas)** [![GitHub_Stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers)  
    * **License:** Apache-2.0  
    * **Overview:** Standard framework for reference-free evaluation of Retrieval Augmented Generation (RAG) applications. Quantifies retrieval precision, answer relevancy, semantic similarity, and factual grounding without requiring human ground truth labels.
 
-8. **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
+8. **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)  
    * **License:** Elastic 2.0 (Source-Available)  
    * **Overview:** Open-source AI observability and evaluation running locally inside Jupyter notebooks or Docker. Specialized in nested trace graphs, multimodal inspection (vision/image debugging), embedding drift analysis, and LLM-as-a-judge benchmarking.
 
-9. **[Microsoft Prompt Flow](https://github.com/microsoft/promptflow)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social&color=white)](https://github.com/microsoft/promptflow/stargazers)  
+9. **[Microsoft Prompt Flow](https://github.com/microsoft/promptflow)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/promptflow?style=social&color=white)](https://github.com/microsoft/promptflow/stargazers)  
    * **License:** MIT  
    * **Overview:** Comprehensive suite of interactive developer tools for prototyping, tracing, evaluating, and monitoring enterprise LLM applications and multi-step agent flows.
 
-10. **[Evidently](https://github.com/evidentlyai/evidently)** [![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)  
+10. **[Evidently](https://github.com/evidentlyai/evidently)** [![GitHub_Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** Observability and testing platform for ML models, data pipelines, and LLM systems. Evaluates 100+ built-in metrics, tracking drift, quality degradation, text sentiment, and prompt regressions over time.
 
-11. **[OpenLLMetry](https://github.com/traceloop/openllmetry)** [![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
+11. **[OpenLLMetry](https://github.com/traceloop/openllmetry)** [![GitHub_Stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=social&color=white)](https://github.com/traceloop/openllmetry/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** OpenTelemetry instrumentation SDK built by Traceloop. Intercepts calls across OpenAI, Anthropic, Cohere, Pinecone, Chroma, LangChain, and LlamaIndex, exporting standardized OpenTelemetry `gen_ai` traces to any OTel collector (Jaeger, Datadog, Dynatrace, Honeycomb).
 
-12. **[AgentOps](https://github.com/AgentOps-AI/agentops)** [![GitHub stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social&color=white)](https://github.com/AgentOps-AI/agentops/stargazers)  
+12. **[AgentOps](https://github.com/AgentOps-AI/agentops)** [![GitHub_Stars](https://img.shields.io/github/stars/AgentOps-AI/agentops?style=social&color=white)](https://github.com/AgentOps-AI/agentops/stargazers)  
     * **License:** MIT  
     * **Overview:** Purpose-built agent monitoring SDK offering visual session replays, step-by-step reasoning tree inspection, LLM token cost breakdowns, and benchmarking for CrewAI, AutoGen, AG2, and LangGraph.
 
-13. **[Agenta](https://github.com/Agenta-AI/agenta)** [![GitHub stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white)](https://github.com/Agenta-AI/agenta/stargazers)  
+13. **[Agenta](https://github.com/Agenta-AI/agenta)** [![GitHub_Stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white)](https://github.com/Agenta-AI/agenta/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** Open-source LLMOps developer platform providing prompt engineering environments, collaborative playground evaluation, side-by-side human testing, and production telemetry tracking.
 
-14. **[Logfire](https://github.com/pydantic/logfire)** [![GitHub stars](https://img.shields.io/github/stars/pydantic/logfire?style=social&color=white)](https://github.com/pydantic/logfire/stargazers)  
+14. **[Logfire](https://github.com/pydantic/logfire)** [![GitHub_Stars](https://img.shields.io/github/stars/pydantic/logfire?style=social&color=white)](https://github.com/pydantic/logfire/stargazers)  
     * **License:** MIT SDK  
     * **Overview:** Python-native observability platform built by Pydantic. Ergonomically tracks async Python code, FastAPI endpoints, Pydantic data validations, and LLM framework operations on top of an OpenTelemetry substrate.
 
-15. **[TruLens](https://github.com/truera/trulens)** [![GitHub stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
+15. **[TruLens](https://github.com/truera/trulens)** [![GitHub_Stars](https://img.shields.io/github/stars/truera/trulens?style=social&color=white)](https://github.com/truera/trulens/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** Evaluation and instrumentation library by TruEra. Pioneer of the "RAG Triad" (Context Relevance, Groundedness, Answer Relevance) to detect and pinpoint hallucinations across multi-step chains.
 
-16. **[Laminar](https://github.com/lmnr-ai/lmnr)** [![GitHub stars](https://img.shields.io/github/stars/lmnr-ai/lmnr?style=social&color=white)](https://github.com/lmnr-ai/lmnr/stargazers)  
+16. **[Laminar](https://github.com/lmnr-ai/lmnr)** [![GitHub_Stars](https://img.shields.io/github/stars/lmnr-ai/lmnr?style=social&color=white)](https://github.com/lmnr-ai/lmnr/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** YC S24 open-source observability and analytics engine engineered specifically for autonomous agent workflows. Built with a high-throughput Rust backend and ClickHouse datastore.
 
-17. **[OpenLIT](https://github.com/openlit/openlit)** [![GitHub stars](https://img.shields.io/github/stars/openlit/openlit?style=social&color=white)](https://github.com/openlit/openlit/stargazers)  
+17. **[OpenLIT](https://github.com/openlit/openlit)** [![GitHub_Stars](https://img.shields.io/github/stars/openlit/openlit?style=social&color=white)](https://github.com/openlit/openlit/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** OpenTelemetry-native AI engineering platform. Uniquely pairs GenAI span tracing with hardware GPU metrics (NVIDIA vRAM, compute utilization) and vector database query logging on top of ClickHouse.
 
-18. **[WhyLogs](https://github.com/whylabs/whylogs)** [![GitHub stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social&color=white)](https://github.com/whylabs/whylogs/stargazers)  
+18. **[WhyLogs](https://github.com/whylabs/whylogs)** [![GitHub_Stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social&color=white)](https://github.com/whylabs/whylogs/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** Industry standard for AI data logging and statistical profiling. Generates deterministic, lightweight summaries for data drift, distribution shifts, and privacy-preserving observability.
 
-19. **[UpTrain](https://github.com/uptrain-ai/uptrain)** [![GitHub stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social&color=white)](https://github.com/uptrain-ai/uptrain/stargazers)  
+19. **[UpTrain](https://github.com/uptrain-ai/uptrain)** [![GitHub_Stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social&color=white)](https://github.com/uptrain-ai/uptrain/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** Unified evaluation platform providing 20+ automated checks across language fluency, code generation, and query sentiment, with automated root-cause failure analysis for prompt refinement.
 
-20. **[Arize OpenInference](https://github.com/Arize-ai/openinference)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/openinference?style=social&color=white)](https://github.com/Arize-ai/openinference/stargazers)  
+20. **[Arize OpenInference](https://github.com/Arize-ai/openinference)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/openinference?style=social&color=white)](https://github.com/Arize-ai/openinference/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** Semantic conventions and auto-instrumentation packages designed to map LLM pipeline executions, vector retrievals, and agent tool calls directly onto OpenTelemetry spans.
 
-21. **[OpenTelemetry Semantic Conventions (GenAI)](https://github.com/open-telemetry/semantic-conventions)** [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/semantic-conventions?style=social&color=white)](https://github.com/open-telemetry/semantic-conventions/stargazers)  
+21. **[OpenTelemetry Semantic Conventions (GenAI)](https://github.com/open-telemetry/semantic-conventions)** [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/semantic-conventions?style=social&color=white)](https://github.com/open-telemetry/semantic-conventions/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** The vendor-neutral OpenTelemetry standards repository codifying canonical attributes (`gen_ai.system`, `gen_ai.request.model`, `gen_ai.usage.prompt_tokens`) across all industry observability stacks.
 
-22. **[Auditable](https://github.com/yzhao062/auditable)** [![GitHub stars](https://img.shields.io/github/stars/yzhao062/auditable?style=social&color=white)](https://github.com/yzhao062/auditable/stargazers)  
+22. **[Auditable](https://github.com/yzhao062/auditable)** [![GitHub_Stars](https://img.shields.io/github/stars/yzhao062/auditable?style=social&color=white)](https://github.com/yzhao062/auditable/stargazers)  
     * **License:** Apache-2.0  
     * **Overview:** Open-source agent decision auditor that constructs a unified typed graph over control flow and data dependencies, enabling keystone failure isolation, live replays, and rollback state compensation.
 
@@ -212,7 +212,7 @@ Contributions from the AI engineering, MLOps, and security communities are warml
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a descriptive branch: `git checkout -b add-tool-name`.
-3. 📝 Update `README.md` following the exact tabular or bullet format, including factual pricing, license, and star badges.
+3. 📝 Update `README.md` following the exact tabular or bullet format, including factual pricing, license, and Stars_Badges.
 4. 🚀 Submit a Pull Request with a succinct description of the project.
 
 ---
